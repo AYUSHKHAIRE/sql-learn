@@ -1,0 +1,2 @@
+# sql-learn
+learning sql
