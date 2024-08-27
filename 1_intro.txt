@@ -1,0 +1,15 @@
+start server
+>>> 
+mysql -u root -p
+
+show can databases
+>>> 
+show databases;
+
+create database 
+>>> 
+create database _name_of_database_;
+
+use database 
+>>> 
+use _name_of_database_;
